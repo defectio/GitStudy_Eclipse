@@ -1,6 +1,6 @@
 package part03;
 
-public class forExample {
+public class starExample {
 
 	public static void main(String[] args) {
 		
