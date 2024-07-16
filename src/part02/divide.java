@@ -13,6 +13,7 @@ public class divide {
 	
 	public static void main(String[] args) {
 		System.out.println(calc(6, 3));
+		System.out.println(calc(6, 0));
 	}
 
 }
