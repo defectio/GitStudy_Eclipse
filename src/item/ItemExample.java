@@ -1,6 +1,6 @@
 package item;
 
-public class ItemEample {
+public class ItemExample {
 
 	public static void main(String[] args) {
 		System.out.println("1. 상품 등록 기능 추가");
