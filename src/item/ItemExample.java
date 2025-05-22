@@ -7,6 +7,7 @@ public class ItemExample {
 		System.out.println("2. 상품 목록 기능 추가");
 		System.out.println("3. 상품 목록 기능에 필터링 추가");
 		System.out.println("4. 정렬기능 추가");
+		System.out.println("5. 상품 등록 시 임시저장 기능 추가");
 	}
 
 }
