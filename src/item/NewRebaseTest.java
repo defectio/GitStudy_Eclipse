@@ -7,6 +7,7 @@ public class NewRebaseTest {
 		
 		System.out.println("[New] rebase-1");
 		System.out.println("[New] rebase-2");
+		System.out.println("[New] rebase-3");
 	}
 
 }
