@@ -16,5 +16,8 @@ public class RealRebaseTEst {
 		System.out.println("다시 interactive rebase 1");
 		System.out.println("다시 interactive rebase 2");
 		
+		System.out.println("다시다시 interactive rebase 1");
+		System.out.println("다시다시 interactive rebase 2");
+		System.out.println("다시다시 interactive rebase 3");
 	}
 }
