@@ -6,6 +6,7 @@ public class RebaseTest {
 		System.out.println("develop_1");
 		System.out.println("develop_2");
 		System.out.println("develop_3");
+		System.out.println("develop_4");
 	}
 
 }
