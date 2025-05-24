@@ -6,5 +6,6 @@ public class RealRebaseTEst {
 		System.out.println("[real] develop-1");
 		
 		System.out.println("[real] rebase-1");
+		System.out.println("[real] rebase-2");
 	}
 }
