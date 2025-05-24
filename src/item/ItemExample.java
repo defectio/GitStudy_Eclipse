@@ -10,6 +10,7 @@ public class ItemExample {
 		System.out.println("5. 상품 등록 시 임시저장 기능 추가");
 		System.out.println("6. [목록] 목록 페이지에서 검색기능 추가");
 		System.out.println("7. [등록] 첨부파일 등록 기능 추가");
+		System.out.println("test");
 	}
 
 }
